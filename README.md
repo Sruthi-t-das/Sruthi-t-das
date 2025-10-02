@@ -21,8 +21,8 @@ I'm passionate about turning raw data into meaningful insights that drive real-w
 
 ## 📂 Featured Projects
 
-- 🔹 [Tableau_Projects](#)  
-- 🔹 [PowerBI_Projects](#)  
+- 🔹 [Tableau_Projects](https://github.com/Sruthi-t-das/Tableau_Advanced)  
+- 🔹 [PowerBI_Projects](https://github.com/Sruthi-t-das/PowerBI_Latest_repository)  
 
 ## 📬 Let's Connect!
 
