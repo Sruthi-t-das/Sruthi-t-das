@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Aspiring Data Analyst | Developer  
+# 👋 Hi, I'm Sruthi Thulasi Das — Aspiring Data Analyst | Developer  
 
 Welcome to my GitHub! I'm a Computer Science graduate with a background in software development (ASP.NET, C#, SQL), currently transitioning into the world of **data analytics**.
 
