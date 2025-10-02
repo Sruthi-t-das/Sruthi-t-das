@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name] — Aspiring Data Analyst | Developer  
 
-<!--
-**Sruthi-t-das/Sruthi-t-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a Computer Science graduate with a background in software development (ASP.NET, C#, SQL), currently transitioning into the world of **data analytics**.
 
-Here are some ideas to get you started:
+I'm passionate about turning raw data into meaningful insights that drive real-world decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+
+- 📊 Data analytics bootcamp at **Green Bootcamp, Germany**
+- 💻 Real-world projects using **Python, SQL, Power BI, Tableau**
+- 🔍 Practicing EDA, feature selection, model building, and storytelling with data
+- 🧪 Building and evaluating machine learning models (KNN, Naive Bayes, Regression, etc.)
+
+## 🧰 Tools & Technologies
+
+- **Languages:** Python, SQL, C#
+- **Libraries:** Pandas, NumPy, Seaborn, Scikit-learn, Matplotlib
+- **Databases:** PostgreSQL, MySQL, SQL Server
+- **Visualization:** Power BI, Tableau
+- **Others:** Git, Jupyter Notebooks, VS Code, Excel
+
+## 📂 Featured Projects
+
+- 🔹 [Tableau_Projects](#)  
+- 🔹 [PowerBI_Projects](#)  
+
+## 📬 Let's Connect!
+
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/sruthi-thulasi-das-547103152/))   
+- 📧 Email: sruthitdas1995@gmail.com  
+
+
+
