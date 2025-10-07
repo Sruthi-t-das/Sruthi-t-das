@@ -26,7 +26,7 @@ I'm passionate about turning raw data into meaningful insights that drive real-w
 
 ## 📬 Let's Connect!
 
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/sruthi-thulasi-das-547103152/))   
+- 💼 [LinkedIn](https://www.linkedin.com/in/sruthi-thulasi-das-547103152/)   
 - 📧 Email: sruthitdas1995@gmail.com  
 
 
