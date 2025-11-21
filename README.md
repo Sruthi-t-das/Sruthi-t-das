@@ -21,7 +21,7 @@ I'm passionate about turning raw data into meaningful insights that drive real-w
 
 ## 📂 Featured Projects
 
-- 🔹 [Tableau_Projects](https://github.com/Sruthi-t-das/Tableau_Advanced)  
+- 🔹 [Tableau_Projects](https://public.tableau.com/app/profile/sruthi.thulasi.das/vizzes)  
 - 🔹 [PowerBI_Projects](https://github.com/Sruthi-t-das/PowerBI_Latest_repository)  
 
 ## 📬 Let's Connect!
